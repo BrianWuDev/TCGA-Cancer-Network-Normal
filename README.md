@@ -4,7 +4,7 @@ This repository presents an interactive web-based tool for visualizing a gene as
 
 ** Web Application**  
 Access the live visualization here:  
-👉 [https://brianwudev.github.io/TCGA-Cancer-Network-Tumor/](https://brianwudev.github.io/TCGA-Cancer-Network-Tumor/)  
+👉 [https://brianwudev.github.io/TCGA-Cancer-Network-Normal/](https://brianwudev.github.io/TCGA-Cancer-Network-Normal/)  
 *(If the hyperlink fails, please copy and paste the above URL into your browser.)*
 
 ---
