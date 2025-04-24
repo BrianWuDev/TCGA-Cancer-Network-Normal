@@ -2,7 +2,7 @@
 
 This repository presents an interactive web-based tool for visualizing a gene association network centered on **GCH1** in normal tissues. Genes with a high Pearson correlation coefficient (PCC ≥ 0.8) to GCH1 are displayed as nodes within a tissue-specific cluster layout.
 
-** Web Application**  
+**Web Application**  
 Access the live visualization here:  
 👉 [https://brianwudev.github.io/TCGA-Cancer-Network-Normal/](https://brianwudev.github.io/TCGA-Cancer-Network-Normal/)  
 *(If the hyperlink fails, please copy and paste the above URL into your browser.)*
